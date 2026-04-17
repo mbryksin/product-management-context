@@ -2,6 +2,8 @@
 
 This folder contains **repo-local Codex skills** for common product management tasks.
 
+For overall Codex agent behavior in this repository, see `.codex/README.md` (mirrors `AGENTS.md`).
+
 ## How to use
 
 - Treat each skill as a repeatable workflow: open the folder and follow `SKILL.md`.
