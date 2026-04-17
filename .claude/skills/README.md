@@ -2,7 +2,7 @@
 
 Each subdirectory contains a `SKILL.md` with YAML frontmatter (`name`, `description`) and practitioner instructions. Claude matches skills by description; you can also invoke `/skill-name` when supported.
 
-**Knowledge base entrypoint:** [.productmap/index.md](../.productmap/index.md) — navigate topics, frameworks, and templates before drafting artifacts.
+**Knowledge base entrypoint:** [.productmap/index.md](../../.productmap/index.md) — navigate topics, frameworks, and templates before drafting artifacts.
 
 ## Skills
 
