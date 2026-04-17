@@ -1,0 +1,122 @@
+# ProductMap — Product Management Map topics (retrieved 2026-04-17)
+
+Source: `https://www.productmap.io/product-management-map` (same public topic list as on [product-management-map](https://www.productmap.io/product-management-map); retrieved via HTTP for this repo snapshot).
+
+## Map labels shown on the page
+
+- Business Model
+- Customer Development
+- Market Research
+- Market Segmentation
+- MVP, Product-Market Fit
+- Artificial Intelligence
+- UX Research
+- Design Thinking
+- UI/UX, Branding
+- Marketing
+- Growth Hacking
+- Sales
+- Backlog
+- Story Mapping
+- Prioritization
+- Lean
+- Software Development
+- Risk Management
+- Agile, Scrum
+- KPIs, Metrics
+- Analytics
+- Unit Economics
+- Finance
+- Product Ops
+- Negotiations
+- Leadership
+- Soft Skills
+
+## “Phase” taxonomy shown on the page (topic → example subtopics)
+
+- Business Model
+  - Customer Development
+  - Business Model Generation
+- Product-Market Fit
+  - Market Research
+  - Competitor Analysis
+  - Product-Market Fit Path
+- MVP
+  - Minimum Viable Product Development
+  - Product Maturity Levels
+  - Product Roadmaps
+- Market Segmentation
+  - Segmentation Process
+  - Segmentation Models
+  - Ideal Customer Profile
+- OKRs
+  - OKR Process
+  - OKR Best Practices
+- User Research
+  - User Research Methods
+  - Needfinding Interviews
+- Design, UX
+  - Design Processes
+  - Design Thinking
+  - Interaction Design
+  - Design Principles & Best Practices
+  - Visual Design & Branding
+- Marketing
+  - Digital Marketing
+  - Go-to-Market Strategy
+  - Performance Marketing & Analytics
+- Growth
+  - Growth Hacking
+  - Sales (B2C, B2B)
+- Artificial Intelligence
+  - AI Algorithms
+  - AI Use Cases
+  - Prompt Engineering
+- KPIs, Metrics
+  - Product Metrics
+  - Application Metrics
+  - Marketing Metrics
+- Analytics
+  - Product Analytics
+  - Data Analytics
+- Unit Economics
+  - Unit Economics Calculation
+  - Financial Metrics
+  - Unit Economics Improvements
+- Finance
+  - Financial Management
+  - Financial Reporting
+- Backlog
+  - Requirements Management
+  - Stakeholder Analysis
+  - User Story Mapping
+  - Prioritization
+- Agile
+  - Agile Thinking
+  - Kanban
+  - Scrum
+  - Scaling
+- Lean
+  - Lean Approach
+  - Loss Exposure Identification
+- Development
+  - Software Development Lifecycle
+  - Frontend
+  - Backend
+  - Web3 Applications
+- Risk Management
+  - Risk Management Processes
+  - Risk Control Supportive Concepts
+- Negotiation
+  - Negotiation Strategy
+  - Negotiation Tips
+- Talent
+  - Team Growth
+  - Performance Management
+  - Skills Assessment
+- Soft Skills
+  - Team Growth
+  - Leadership
+- Operations
+  - Product Ops
+
