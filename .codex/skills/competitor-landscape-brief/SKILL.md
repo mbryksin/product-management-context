@@ -1,3 +1,8 @@
+---
+name: competitor-landscape-brief
+description: Produce a decision-ready competitive landscape with competitor table, differentiation, messaging hooks, risks, and follow-up intelligence questions.
+---
+
 # Competitor Landscape Brief (Competitor table + differentiation)
 
 ## Name

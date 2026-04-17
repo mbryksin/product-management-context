@@ -1,0 +1,1 @@
+../../.gemini/skills/okr-goal-setting/subagent-prompt.md

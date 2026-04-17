@@ -1,6 +1,6 @@
 ---
 name: unit-economics
-description: Use this skill when the user is modeling, improving, or reviewing unit economics — CAC, LTV, payback, contribution margin, gross margin, cohort economics. Triggers: "unit economics", "LTV:CAC", "payback period", "contribution margin", "is this business viable", "cohort economics", "CAC payback", "burn multiple".
+description: Use this skill when the user is modeling, improving, or reviewing unit economics — CAC, LTV, payback, contribution margin, gross margin, cohort economics. Triggers — "unit economics", "LTV:CAC", "payback period", "contribution margin", "is this business viable", "cohort economics", "CAC payback", "burn multiple".
 ---
 
 # Unit economics

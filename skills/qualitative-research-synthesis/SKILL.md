@@ -1,0 +1,1 @@
+../../.gemini/skills/qualitative-research-synthesis/SKILL.md

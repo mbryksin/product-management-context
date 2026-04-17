@@ -6,6 +6,7 @@ For overall Codex agent behavior in this repository, see `.codex/README.md` (mir
 
 ## How to use
 
+- Each `SKILL.md` starts with YAML frontmatter (`name`, `description`) so tools like `npx skills` can index and install the skill.
 - Treat each skill as a repeatable workflow: open the folder and follow `SKILL.md`.
 - Ground outputs in this repository first: start at `.productmap/index.md`, then pull in relevant templates under `.productmap/09_templates/` and frameworks under `.productmap/08_frameworks/`.
 

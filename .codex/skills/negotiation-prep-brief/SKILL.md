@@ -1,3 +1,8 @@
+---
+name: negotiation-prep-brief
+description: Prepare negotiations with BATNA, targets, concessions, stakeholder map, and a one-page brief for scope, pricing, timeline, or cross-functional commitments.
+---
+
 # Negotiation Prep Brief (BATNA, targets, concessions, stakeholder map)
 
 ## Name

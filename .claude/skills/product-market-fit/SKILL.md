@@ -1,6 +1,6 @@
 ---
 name: product-market-fit
-description: Use this skill when the user asks how to measure, reach, or diagnose product-market fit (PMF). Triggers: "do we have PMF", "measure PMF", "Sean Ellis test", "retention curve", "40% rule", "leading indicators of PMF", "why isn't it growing", "is this market big enough".
+description: Use this skill when the user asks how to measure, reach, or diagnose product-market fit (PMF). Triggers — "do we have PMF", "measure PMF", "Sean Ellis test", "retention curve", "40% rule", "leading indicators of PMF", "why isn't it growing", "is this market big enough".
 ---
 
 # Product–market fit (PMF)

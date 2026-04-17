@@ -1,3 +1,8 @@
+---
+name: market-segmentation-icp
+description: Define market segments, an ICP, a scored segment matrix, and a persona draft aligned to .productmap persona and JTBD resources.
+---
+
 # Market Segmentation + ICP (Segment Matrix + Persona)
 
 ## Name

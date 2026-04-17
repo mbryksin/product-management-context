@@ -1,3 +1,8 @@
+---
+name: customer-development-hypotheses
+description: Turn an early product idea into falsifiable customer-development hypotheses, risk-ranked assumptions, and a concrete learning plan without inventing interview scripts.
+---
+
 # Customer development hypotheses (vague idea → testable hypotheses)
 
 ## Name

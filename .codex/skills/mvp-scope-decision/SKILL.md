@@ -1,3 +1,8 @@
+---
+name: mvp-scope-decision
+description: Define MVP goals and non-goals, release slices, de-risking experiments, and an ADR-style scope decision log using .productmap templates and data conventions.
+---
+
 # MVP Scope Decision & Slicing — Skill
 
 ## Name

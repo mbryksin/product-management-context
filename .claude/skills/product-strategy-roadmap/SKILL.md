@@ -1,6 +1,6 @@
 ---
 name: product-strategy-roadmap
-description: Use this skill when the user asks about product strategy, vision, roadmaps, MVP scoping, product maturity stages, time-horizon planning (now/next/later), or turning strategy into a sequenced plan. Triggers: "build a roadmap", "what's our strategy", "scope the MVP", "now/next/later", "strategic narrative", "product vision".
+description: Use this skill when the user asks about product strategy, vision, roadmaps, MVP scoping, product maturity stages, time-horizon planning (now/next/later), or turning strategy into a sequenced plan. Triggers — "build a roadmap", "what's our strategy", "scope the MVP", "now/next/later", "strategic narrative", "product vision".
 ---
 
 # Product strategy and roadmap

@@ -1,6 +1,6 @@
 ---
 name: prioritization-rice
-description: Use this skill when the user is prioritizing features, bugs, initiatives, or experiments — or comparing prioritization frameworks. Triggers: "prioritize the backlog", "what should we build next", "RICE score", "MoSCoW", "Kano", "value vs effort", "impact vs effort", "weighted shortest job first", "opportunity scoring".
+description: Use this skill when the user is prioritizing features, bugs, initiatives, or experiments — or comparing prioritization frameworks. Triggers — "prioritize the backlog", "what should we build next", "RICE score", "MoSCoW", "Kano", "value vs effort", "impact vs effort", "weighted shortest job first", "opportunity scoring".
 ---
 
 # Prioritization (RICE-centered)

@@ -1,6 +1,6 @@
 ---
 name: go-to-market
-description: Use this skill when the user is planning or reviewing a go-to-market strategy, a product launch, a positioning exercise, or a channel strategy. Triggers: "GTM plan", "launch plan", "positioning", "messaging", "pricing strategy", "channel strategy", "PLG vs sales-led", "beachhead market", "launch tiering".
+description: Use this skill when the user is planning or reviewing a go-to-market strategy, a product launch, a positioning exercise, or a channel strategy. Triggers — "GTM plan", "launch plan", "positioning", "messaging", "pricing strategy", "channel strategy", "PLG vs sales-led", "beachhead market", "launch tiering".
 ---
 
 # Go-to-market (GTM) — Claude skill

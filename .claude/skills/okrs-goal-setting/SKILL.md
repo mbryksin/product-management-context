@@ -1,6 +1,6 @@
 ---
 name: okrs-goal-setting
-description: Use this skill when the user is writing, reviewing, or grading Objectives and Key Results (OKRs), or setting product/team goals. Triggers: "write OKRs", "draft quarterly goals", "grade OKRs", "key results", "aspirational vs committed", "KPIs vs OKRs", "goal-setting for the team".
+description: Use this skill when the user is writing, reviewing, or grading Objectives and Key Results (OKRs), or setting product/team goals. Triggers — "write OKRs", "draft quarterly goals", "grade OKRs", "key results", "aspirational vs committed", "KPIs vs OKRs", "goal-setting for the team".
 ---
 
 # OKRs and goal setting

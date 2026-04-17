@@ -1,6 +1,6 @@
 # Claude Code skills (repo-local)
 
-Each subdirectory contains a `SKILL.md` with YAML frontmatter (`name`, `description`) and practitioner instructions. Claude matches skills by description; you can also invoke `/skill-name` when supported.
+Each subdirectory contains a `SKILL.md` with YAML frontmatter (`name`, `description`) and practitioner instructions. Keep `description` as valid YAML: avoid a bare `key: value` segment inside an unquoted line (for example use `Triggers —` rather than `Triggers:` in the one-line description). Claude matches skills by description; you can also invoke `/skill-name` when supported.
 
 **Knowledge base entrypoint:** [.productmap/index.md](../../.productmap/index.md) — navigate topics, frameworks, and templates before drafting artifacts.
 

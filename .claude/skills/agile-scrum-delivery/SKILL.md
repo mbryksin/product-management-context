@@ -1,6 +1,6 @@
 ---
 name: agile-scrum-delivery
-description: Use this skill when the user is running, troubleshooting, or improving a delivery process — Scrum ceremonies, Kanban flow, sprint planning, estimation, retrospectives, scaling frameworks. Triggers: "sprint planning", "backlog grooming", "retro", "standup", "Scrum vs Kanban", "story points", "velocity", "WIP limit", "SAFe", "LeSS", "scaling agile".
+description: Use this skill when the user is running, troubleshooting, or improving a delivery process — Scrum ceremonies, Kanban flow, sprint planning, estimation, retrospectives, scaling frameworks. Triggers — "sprint planning", "backlog grooming", "retro", "standup", "Scrum vs Kanban", "story points", "velocity", "WIP limit", "SAFe", "LeSS", "scaling agile".
 ---
 
 # Agile, Scrum, and delivery — Claude skill

@@ -1,6 +1,6 @@
 ---
 name: prd-requirements
-description: Use this skill when the user is writing, reviewing, or scoping a PRD, spec, user story, or requirements document — including AI-feature specs and acceptance criteria. Triggers: "write a PRD", "draft a spec", "user story", "acceptance criteria", "scope this feature", "review my spec", "AI feature spec", "tech spec vs PRD".
+description: Use this skill when the user is writing, reviewing, or scoping a PRD, spec, user story, or requirements document — including AI-feature specs and acceptance criteria. Triggers — "write a PRD", "draft a spec", "user story", "acceptance criteria", "scope this feature", "review my spec", "AI feature spec", "tech spec vs PRD".
 ---
 
 # PRD and requirements

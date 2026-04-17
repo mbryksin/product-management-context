@@ -1,3 +1,8 @@
+---
+name: business-model-canvas
+description: Draft a Business Model Canvas or Lean Canvas with assumptions, risks, open questions, and validation next steps grounded in .productmap strategy templates.
+---
+
 # Business Model Canvas (BMC) — Skill
 
 ## Name

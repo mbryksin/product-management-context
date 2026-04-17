@@ -1,3 +1,8 @@
+---
+name: design-thinking-workshop-plan
+description: Plan and facilitate a design thinking workshop with agenda, exercises, materials, facilitation notes, and output artifacts for a specific product problem.
+---
+
 # Design thinking workshop plan (plan + facilitate)
 
 ## Name

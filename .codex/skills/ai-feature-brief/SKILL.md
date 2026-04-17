@@ -1,3 +1,8 @@
+---
+name: ai-feature-brief
+description: Select an AI use case and draft an AI PRD, prompt spec, risk register, and offline/online evaluation plan aligned with .productmap AI PRD templates.
+---
+
 # AI Feature Brief — AI PRD + Prompt Spec
 
 ## Name

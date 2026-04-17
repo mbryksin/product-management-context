@@ -1,6 +1,6 @@
 ---
 name: product-metrics-kpis
-description: Use this skill when the user is choosing, defining, instrumenting, or reviewing product metrics and KPIs. Triggers: "what metrics should we track", "north star metric", "activation metric", "AARRR pirate metrics", "HEART framework", "input vs output metrics", "leading vs lagging indicators", "define KPI".
+description: Use this skill when the user is choosing, defining, instrumenting, or reviewing product metrics and KPIs. Triggers — "what metrics should we track", "north star metric", "activation metric", "AARRR pirate metrics", "HEART framework", "input vs output metrics", "leading vs lagging indicators", "define KPI".
 ---
 
 # Product metrics and KPIs

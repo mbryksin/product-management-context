@@ -1,0 +1,1 @@
+../../.gemini/skills/longform-prd-drafting/SKILL.md

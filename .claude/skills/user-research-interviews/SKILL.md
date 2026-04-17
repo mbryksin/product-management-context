@@ -1,6 +1,6 @@
 ---
 name: user-research-interviews
-description: Use this skill when the user is planning, running, or synthesizing user research — especially discovery interviews, problem interviews, solution interviews, usability tests, or JTBD interviews. Triggers: "user interviews", "customer discovery", "needfinding", "interview guide", "synthesize interviews", "JTBD interview", "Mom Test", "usability test".
+description: Use this skill when the user is planning, running, or synthesizing user research — especially discovery interviews, problem interviews, solution interviews, usability tests, or JTBD interviews. Triggers — "user interviews", "customer discovery", "needfinding", "interview guide", "synthesize interviews", "JTBD interview", "Mom Test", "usability test".
 ---
 
 # User research interviews

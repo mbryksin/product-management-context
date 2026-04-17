@@ -1,3 +1,8 @@
+---
+name: product-ops-operating-model
+description: Define a lightweight product operating model with rituals, cadences, artifacts, RACI, comms, decision forums, and rollout plan for scaling product delivery.
+---
+
 # Product Ops Operating Model (Lightweight rituals, cadences, artifacts, RACI)
 
 ## Name

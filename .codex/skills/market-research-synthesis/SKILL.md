@@ -1,3 +1,8 @@
+---
+name: market-research-synthesis
+description: Synthesize desk research and notes into an executive market brief with structure, gaps, and implications using only provided inputs plus the .productmap knowledge base.
+---
+
 # Market research synthesis (desk notes → exec-ready brief)
 
 ## Name
