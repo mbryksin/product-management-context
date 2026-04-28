@@ -1,8 +1,3 @@
-# General prompt template
-
-Structured starting point for PM prompts. Add, remove, or adjust sections for your task.
-
-```markdown
 # Role and Objective
 Define the model’s persona and the goal of the task
 
@@ -34,7 +29,3 @@ External information or additional context that improves task understanding
 
 # Final Instructions
 Add a prompt to think step by step
-
-```
-
-_Source: Product Map | Prompt Templates_
