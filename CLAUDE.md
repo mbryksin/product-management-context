@@ -37,6 +37,20 @@ All content lives under [.productmap/](.productmap/) and mirrors the ProductMap.
 
 Prefer skills over ad-hoc prompts for recurring PM tasks.
 
+| Skill | Command | Purpose |
+|-------|---------|---------|
+| agile-scrum-delivery | `/agile-scrum-delivery` | Sprint planning, ceremonies, and agile delivery workflows |
+| go-to-market | `/go-to-market` | GTM strategy, messaging, and launch planning |
+| interview-plan-questions | `/interview-plan-questions` | Generate a tailored 30–60 min interview question guide for founder customer discovery (pre-PMF) or UX / needfinding interviews |
+| okrs-goal-setting | `/okrs-goal-setting` | OKR setting, cascade maps, and goal alignment |
+| prd-requirements | `/prd-requirements` | Write, review, or scope PRDs, specs, and user stories |
+| prioritization-rice | `/prioritization-rice` | RICE scoring and backlog prioritization |
+| product-market-fit | `/product-market-fit` | PMF assessment, competitive analysis, and positioning |
+| product-metrics-kpis | `/product-metrics-kpis` | North star, KPI trees, and metric frameworks |
+| product-strategy-roadmap | `/product-strategy-roadmap` | Product vision, roadmap formats, and strategic planning |
+| unit-economics | `/unit-economics` | LTV:CAC model and contribution margin analysis |
+| user-research-interviews | `/user-research-interviews` | Research plans, interview guides, and synthesis |
+
 ## Conventions
 
 - Dates are absolute (`2026-04-17`), never relative.
