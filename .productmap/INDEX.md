@@ -9,49 +9,47 @@ This is the ProductMap.io PM knowledge base: a structured library of frameworks,
 - [Team](00_company/team.md)
 - [Resources](00_company/resources.md)
 - [Product Onepager](00_company/product/onepager.md)
-- [Roadmap](00_company/product/roadmap.md)
-- [Backlog](00_company/product/backlog.md)
 
 ## 01 — Strategy
 
-- [Business Model](01_strategy/business-model/_overview.md)
-- [Product-Market Fit](01_strategy/product-market-fit/_overview.md)
-- [MVP & Roadmap](01_strategy/mvp-roadmap/_overview.md)
-- [Segmentation](01_strategy/segmentation/_overview.md)
-- [OKRs](01_strategy/okrs/_overview.md)
+- [Business Model](01_strategy/business-model/business-model.md)
+- [Product-Market Fit](01_strategy/product-market-fit/product-market-fit.md)
+- [MVP & Roadmap](01_strategy/mvp-roadmap/mvp-roadmap.md)
+- [Segmentation](01_strategy/segmentation/segmentation.md)
+- [OKRs](01_strategy/okrs/okrs.md)
 
 ## 02 — Generation
 
-- [User Research](02_generation/user-research/_overview.md)
-- [Design & UX](02_generation/design-ux/_overview.md)
-- [Marketing](02_generation/marketing/_overview.md)
-- [Growth & Sales](02_generation/growth-sales/_overview.md)
-- [AI & ML](02_generation/ai-ml/_overview.md)
+- [User Research](02_generation/user-research/user-research.md)
+- [Design & UX](02_generation/design-ux/design-ux.md)
+- [Marketing](02_generation/marketing/marketing.md)
+- [Growth & Sales](02_generation/growth-sales/growth-sales.md)
+- [AI & ML](02_generation/ai-ml/ai-ml.md)
 
 ## 03 — Analysis
 
-- [KPIs & Metrics](03_analysis/kpis-metrics/_overview.md)
-- [Analytics](03_analysis/analytics/_overview.md)
-- [Unit Economics](03_analysis/unit-economics/_overview.md)
-- [Finance](03_analysis/finance/_overview.md)
+- [KPIs & Metrics](03_analysis/kpis-metrics/kpis-metrics.md)
+- [Analytics](03_analysis/analytics/analytics.md)
+- [Unit Economics](03_analysis/unit-economics/unit-economics.md)
+- [Finance](03_analysis/finance/finance.md)
 
 ## 04 — Delivery
 
-- [Backlog & Requirements](04_delivery/backlog-requirements/_overview.md)
-- [Agile & Process](04_delivery/agile-process/_overview.md)
-- [Lean & Experiments](04_delivery/lean-experiments/_overview.md)
-- [Development](04_delivery/development/_overview.md)
-- [Risk & Compliance](04_delivery/risk-compliance/_overview.md)
+- [Backlog & Requirements](04_delivery/backlog-requirements/backlog-requirements.md)
+- [Agile & Process](04_delivery/agile-process/agile-process.md)
+- [Lean & Experiments](04_delivery/lean-experiments/lean-experiments.md)
+- [Development](04_delivery/development/development.md)
+- [Risk & Compliance](04_delivery/risk-compliance/risk-compliance.md)
 
 ## 05 — People
 
-- [Talent](05_people/talent/_overview.md)
-- [Communication](05_people/communication/_overview.md)
-- [Negotiation](05_people/negotiation/_overview.md)
+- [Talent](05_people/talent/talent.md)
+- [Communication](05_people/communication/communication.md)
+- [Negotiation](05_people/negotiation/negotiation.md)
 
 ## 06 — Operations
 
-- [Product Ops](06_operations/product-ops/_overview.md)
+- [Product Ops](06_operations/product-ops/product-ops.md)
 
 ## 07 — Tools
 
