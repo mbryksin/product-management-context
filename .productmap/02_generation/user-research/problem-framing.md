@@ -71,6 +71,10 @@ Based on the problem statement above, generate 3–5 HMW questions:
 
 ---
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Plan and run user research](https://app.productmap.io/agents/user-research-planner)** agent on [Product Map](https://app.productmap.io/agents). Use it to write problem statements, generate HMW questions, and avoid solution bias before you choose a research method.
+
 ## Related
 
 - [user-research.md](./user-research.md)

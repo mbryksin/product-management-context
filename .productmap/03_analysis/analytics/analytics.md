@@ -25,6 +25,10 @@ Analytics work turns raw product data into structured insights about user behavi
 - Mixpanel — event-based product analytics and cohort analysis
 - PostHog — open-source product analytics with session replay
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Make data-driven decisions](https://app.productmap.io/agents/data-driven-product-decisions)** agent on [Product Map](https://app.productmap.io/agents). Use it to design funnel analyses, cohort reviews, and experiment readouts that support product decisions.
+
 ## Related Frameworks
 
 - [03_analysis/kpis-metrics/kpis-metrics.md](../kpis-metrics/kpis-metrics.md)

@@ -52,6 +52,10 @@ Use this table to compare opportunities side by side before committing to one.
 
 [Fill in: rationale for which opportunity to pursue and what the next step is — e.g., "Opportunity 2 has the highest evidence and fits the activation theme. Next step: run a 2-week discovery sprint to validate the core assumption."]
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Product discovery to solution](https://app.productmap.io/agents/product-discovery-ideation)** agent on [Product Map](https://app.productmap.io/agents). Use it to compare opportunities, score strategic fit, and decide what to validate next.
+
 ## Related
 
 - [product-market-fit.md](./product-market-fit.md)

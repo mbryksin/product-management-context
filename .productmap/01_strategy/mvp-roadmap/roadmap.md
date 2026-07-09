@@ -68,8 +68,11 @@ Review these at the start of each quarter:
 - [ ] Are any dependencies or blockers identified?
 - [ ] Has the roadmap been shared with key stakeholders?
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Define strategy and roadmap](https://app.productmap.io/agents/product-strategy-roadmap)** agent on [Product Map](https://app.productmap.io/agents). Use it to populate quarterly themes, committed work, and sequencing with your current product context.
+
 ## Related
 
-- [mvp-roadmap.md](./mvp-roadmap.md)
 - [product-vision.md](./product-vision.md)
 - [../../04_delivery/backlog-requirements/backlog.md](../../04_delivery/backlog-requirements/backlog.md)

@@ -70,6 +70,10 @@ When a decision is high-stakes or contested, use this structure:
 
 **Decision:** [Fill in: what was ultimately decided and by whom]
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Enable team collaboration](https://app.productmap.io/agents/team-collaboration-leadership)** agent on [Product Map](https://app.productmap.io/agents). Use it to structure complex decisions, populate your decision log, and align stakeholders on rationale.
+
 ## Related
 
 - [communication.md](./communication.md)

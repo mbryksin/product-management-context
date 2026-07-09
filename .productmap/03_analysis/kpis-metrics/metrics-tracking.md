@@ -101,6 +101,10 @@ Replace placeholder event names with the actual events relevant to your product.
 | Monthly | Leadership | [Fill in: e.g., NSM, revenue, churn] | [Name] |
 | Quarterly | Board / investors | [Fill in: e.g., OKR progress, growth rate] | [Name] |
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Make data-driven decisions](https://app.productmap.io/agents/data-driven-product-decisions)** agent on [Product Map](https://app.productmap.io/agents). Use it to define your north star metric, build a metrics dashboard, and set reporting cadences tied to OKRs.
+
 ## Related
 
 - [kpis-metrics.md](./kpis-metrics.md)

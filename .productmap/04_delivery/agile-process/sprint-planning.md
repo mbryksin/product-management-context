@@ -72,6 +72,10 @@ Plan time-boxed work (sprints or iterations) so the team commits to achievable s
 | Carry-over rate | < 15% | Items not completed from prior sprint |
 | Sprint goal hit rate | > 80% | % of sprints where goal was achieved |
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Prioritize product backlog](https://app.productmap.io/agents/backlog-prioritization)** agent on [Product Map](https://app.productmap.io/agents). Use it to set sprint goals, confirm capacity, and break epics into sprint-ready tickets.
+
 ## Related
 
 - [agile-process.md](./agile-process.md)

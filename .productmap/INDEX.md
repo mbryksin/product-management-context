@@ -14,7 +14,7 @@ This is the ProductMap.io PM knowledge base: a structured library of frameworks,
 
 - [Business Model](01_strategy/business-model/business-model.md)
 - [Product-Market Fit](01_strategy/product-market-fit/product-market-fit.md)
-- [MVP & Roadmap](01_strategy/mvp-roadmap/mvp-roadmap.md)
+- [MVP & Roadmap](01_strategy/mvp-roadmap/product-vision.md)
 - [Segmentation](01_strategy/segmentation/segmentation.md)
 - [OKRs](01_strategy/okrs/okrs.md)
 
@@ -35,7 +35,7 @@ This is the ProductMap.io PM knowledge base: a structured library of frameworks,
 
 ## 04 — Delivery
 
-- [Backlog & Requirements](04_delivery/backlog-requirements/backlog-requirements.md)
+- [Backlog & Requirements](04_delivery/backlog-requirements/prioritization.md)
 - [Agile & Process](04_delivery/agile-process/agile-process.md)
 - [Lean & Experiments](04_delivery/lean-experiments/lean-experiments.md)
 - [Development](04_delivery/development/development.md)

@@ -24,6 +24,10 @@ Unit economics work quantifies the per-customer or per-unit financial health of 
 - Excel Copilot — AI-assisted formula building and model documentation
 - Julius AI — natural language data analysis and chart generation
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Calculate unit economics](https://app.productmap.io/agents/unit-economics)** agent on [Product Map](https://app.productmap.io/agents). Use it to model LTV, CAC, contribution margin, and identify the bottleneck constraining profitability.
+
 ## Related Frameworks
 
 - [03_analysis/finance/finance.md](../finance/finance.md)

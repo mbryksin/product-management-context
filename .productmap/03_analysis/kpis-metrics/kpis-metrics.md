@@ -27,6 +27,10 @@ KPI and metrics work establishes the measurement system that tells product teams
 - Mixpanel — event-based analytics and funnel measurement
 - Google Analytics (GA4) — web and app traffic and conversion tracking
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Make data-driven decisions](https://app.productmap.io/agents/data-driven-product-decisions)** agent on [Product Map](https://app.productmap.io/agents). Use it to define your north star metric, build KPI trees, and set outcome metrics that guide product priorities.
+
 ## Related Frameworks
 
 - [08_frameworks/okrs.md](../../08_frameworks/okrs.md)

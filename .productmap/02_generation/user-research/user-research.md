@@ -28,6 +28,10 @@ User research work generates the qualitative and quantitative evidence needed to
 - Maze AI — unmoderated usability testing and survey insights
 - Otter.ai — interview transcription and note-taking
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Plan and run user research](https://app.productmap.io/agents/user-research-planner)** agent on [Product Map](https://app.productmap.io/agents). Use it to match methods to your research question, design study plans, and structure synthesis that leads to a product decision.
+
 ## Related Frameworks
 
 - [08_frameworks/jobs-to-be-done.md](../../08_frameworks/jobs-to-be-done.md)

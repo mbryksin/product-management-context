@@ -23,8 +23,12 @@ Development work covers the technical documentation and design decision practice
 - Cursor — AI-native code editor for rapid development and exploration
 - Linear — engineering-friendly issue tracking with cycle time analytics
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Write PRD and feature spec](https://app.productmap.io/agents/prd-specification)** agent on [Product Map](https://app.productmap.io/agents). Use it to draft technical requirements, acceptance criteria, and engineering-ready specs that reduce ambiguity before build.
+
 ## Related Frameworks
 
 - [09_templates/adr-template.md](../../09_templates/adr-template.md)
 - [09_templates/api-doc-template.md](../../09_templates/api-doc-template.md)
-- [04_delivery/backlog-requirements/backlog-requirements.md](../backlog-requirements/backlog-requirements.md)
+- [04_delivery/backlog-requirements/prioritization.md](../backlog-requirements/prioritization.md)

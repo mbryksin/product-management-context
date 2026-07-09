@@ -10,9 +10,8 @@ Segmentation work identifies and describes the specific customer groups the prod
 
 | Artefact | Description |
 |---|---|
-| [icp-platform.md](./icp-platform.md) | Ideal Customer Profile for individual end users of the platform |
-| [icp-company.md](./icp-company.md) | ICP for company or team-level buyers |
-| [icp-partner.md](./icp-partner.md) | ICP for partner organisations |
+| [icp-b2c.md](./icp-b2c.md) | Ideal Customer Profile for individual / B2C customers (buyer = user) |
+| [icp-b2b.md](./icp-b2b.md) | Ideal Customer Profile for company / B2B accounts (buying committee) |
 | customer-journey-map.md | End-to-end customer journey map with pain points and opportunities (not yet created) |
 
 ## Required Skills
@@ -26,6 +25,10 @@ Segmentation work identifies and describes the specific customer groups the prod
 - Dovetail AI — qualitative research synthesis and persona building
 - ChatGPT / Claude — ICP drafting and scenario stress-testing
 - Gong — sales call analysis to surface real customer language
+
+## Product Map AI Agent
+
+Fill in this context file with the **[Define ICP and segments](https://app.productmap.io/agents/ideal-customer-profile-icp)** agent on [Product Map](https://app.productmap.io/agents). Use it to profile your ideal customer for either a B2C or B2B motion, map jobs-to-be-done, and sharpen positioning by segment.
 
 ## Related Frameworks
 

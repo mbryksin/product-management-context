@@ -25,7 +25,11 @@ Lean and experiments work applies the Build-Measure-Learn discipline to reduce t
 - Amplitude — experiment metric tracking and analysis
 - Maze AI — rapid unmoderated usability and concept testing
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Product discovery to solution](https://app.productmap.io/agents/product-discovery-ideation)** agent on [Product Map](https://app.productmap.io/agents). Use it to shape hypotheses, design lean experiments, and turn learnings into the next build-or-kill decision.
+
 ## Related Frameworks
 
-- [01_strategy/mvp-roadmap/mvp-roadmap.md](../../01_strategy/mvp-roadmap/mvp-roadmap.md)
+- [01_strategy/mvp-roadmap/product-vision.md](../../01_strategy/mvp-roadmap/product-vision.md)
 - [03_analysis/analytics/analytics.md](../../03_analysis/analytics/analytics.md)

@@ -54,9 +54,12 @@ Items that have been considered but are not being pursued in the near term. Revi
 
 ---
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Prioritize product backlog](https://app.productmap.io/agents/backlog-prioritization)** agent on [Product Map](https://app.productmap.io/agents). Use it to groom active items, apply prioritization frameworks, and keep the backlog aligned with roadmap themes.
+
 ## Related
 
-- [backlog-requirements.md](./backlog-requirements.md)
 - [prioritization.md](./prioritization.md)
 - [../../01_strategy/mvp-roadmap/roadmap.md](../../01_strategy/mvp-roadmap/roadmap.md)
 - [../../04_delivery/agile-process/sprint-planning.md](../../04_delivery/agile-process/sprint-planning.md)

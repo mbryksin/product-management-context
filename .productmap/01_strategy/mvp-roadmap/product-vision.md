@@ -58,9 +58,11 @@ From [current state] to [next milestone] to [long-term vision]:
 - Not [competing approach] — our value comes from [your differentiation], not [their approach]
 - Not [scope creep area] — [brief reason why this is outside the vision]
 
+## Product Map AI Agent
+
+Fill in this context file with the **[Define strategy and roadmap](https://app.productmap.io/agents/product-strategy-roadmap)** agent on [Product Map](https://app.productmap.io/agents). Use it to sharpen your vision statement, define strategic pillars, and connect long-term direction to near-term bets.
+
 ## Related
 
-- [mvp-roadmap.md](./mvp-roadmap.md)
-- [roadmap-formats.md](./roadmap-formats.md)
 - [roadmap.md](./roadmap.md)
 - [../product-market-fit/product-market-fit.md](../product-market-fit/product-market-fit.md)

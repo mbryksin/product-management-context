@@ -26,5 +26,5 @@ Agile and process work establishes the operating rhythm, ceremonies, and agreeme
 
 ## Related Frameworks
 
-- [04_delivery/backlog-requirements/backlog-requirements.md](../backlog-requirements/backlog-requirements.md)
+- [04_delivery/backlog-requirements/prioritization.md](../backlog-requirements/prioritization.md)
 - [09_templates/retrospective-template.md](../../09_templates/retrospective-template.md)

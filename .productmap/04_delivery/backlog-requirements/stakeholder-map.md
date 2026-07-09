@@ -62,6 +62,6 @@ Different stakeholders need different information at different cadences. Tailor 
 
 ## Related
 
-- [backlog-requirements.md](./backlog-requirements.md)
+- [prioritization.md](./prioritization.md)
 - [../../05_people/communication/communication.md](../../05_people/communication/communication.md)
 - [../../05_people/communication/decision-making.md](../../05_people/communication/decision-making.md)
